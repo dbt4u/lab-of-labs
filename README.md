@@ -5,7 +5,7 @@
 ### OpenResearch'ing ...
 ... with DOI based publishing    
   
-1. ORCID: https://orcid.org/0009-0000-9155-716X
+1. ORCID: [https://orcid.org/0009-0000-9155-716X](https://orcid.org/0009-0000-9155-716X)
 1. [SotA LoRaWAN](https://doi.org/10.5281/zenodo.14954297), de
 1. [SotA SocialVR](https://doi.org/10.5281/zenodo.14966010), en
 1. [SotA Market Intelligence](https://doi.org/10.5281/zenodo.14919977), en
@@ -14,7 +14,7 @@
 
 ### LeanPub'ing ...  
 ... means Self-Publishing  
-- [FraCoGenAI](https://leanpub.com/bb-fracogen/): Beyound Benchmark - Framework for Comparing GenAI Systems, en (25%)  
+- [FraCoGenAI](https://leanpub.com/bb-fracogen/): Beyond Benchmark - Framework for Comparing GenAI Systems, en (25%)  
 - [EvoKreaM](https://leanpub.com/evokream): Evolution Kreativer Methoden, de (prePub)  
 - [jobr](https://leanpub.com/jobr/): Job Re:Sume - Arbeit neu denken, de (prePub)  
 - [jobr](https://leanpub.com/jobre/): Job Re:Sume - Empower Work with Resume, en (prePub) 
@@ -26,8 +26,6 @@
 - [Zenodo Community](https://zenodo.org/communities/fosseam/about)
 - [Comparing Github, Gitlab & Gitea](https://doi.org/10.5281/zenodo.14979428), en - dataset
 - [All About FOSS Licensing](https://doi.org/10.5281/zenodo.14977388), en - Working Paper
-
-
 
 
 
